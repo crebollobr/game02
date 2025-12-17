@@ -1,3 +1,5 @@
+# Importando bibliotecas
+
 import pgzrun
 import random
 
